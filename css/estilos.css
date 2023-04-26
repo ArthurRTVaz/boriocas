@@ -18,7 +18,7 @@ header {
 	background-color: transparent;
 	margin: 0 auto;
 }
-a
+
 
 
 
@@ -318,13 +318,49 @@ a
 	height: 450px;
 	background-color: #636363;
 	border-radius: 60px;
-	text-align: center;
 	color: white;
 	margin: 0 auto;
-	margin-top: 20px;
+	margin-top: 0px;
+	position: relative;
+	top: 60px;
+	display: flex;
 }
 
-#segunda-parte{
+#terceira-parte{
 	height: 700px;
 	background-color: #3B2A43;
 }
+
+.textoup{
+	width: 830px;
+	height: 52px;
+	background-color: #7B1FA2;
+	border-radius: 60px;
+}
+
+.textoesq{
+	font-style: normal;
+font-weight: 400;
+line-height: 58px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.textodir{
+	font-style: normal;
+font-weight: 400;
+line-height: 58px;
+text-align: center;
+color: #FFFFFF;
+}
+
+#imagenvari{
+	height: 225px;
+	width: 385px;
+}
+
+#imagenqua{
+	height: 225px;
+	width: 385px;
+}
+
