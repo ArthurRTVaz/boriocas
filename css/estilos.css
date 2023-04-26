@@ -1,26 +1,32 @@
 header {
 	text-align: center;
 	background-color: #7B1FA2;
+	height: 170px;
 }
 
-#secao1 {
-	height: 600px;
-	background-color: #3B2A43;
+#primeira-parte {
+	height: 550px;
+	background-color: transparent;
 }
 .divi {
+	background-image: url('..//imagens/imgf.png');
+	background-repeat: no-repeat;
+	height: 550px;
 	width: 1440px;
-	height: 600px;
-	margin: 0 auto;
-
-}
-.divv {
-	height: 600px;
-	background-color: transparent;
 	margin: 0 auto;
 }
 
 
 
+
+#segunda-parte {
+	height: 700px;
+	background-color: black;
+}
+#divisao {
+	background-color: #3B2A43;
+	height: 15px;
+}
 
 
 
