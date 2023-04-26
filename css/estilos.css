@@ -1,29 +1,24 @@
+header {
+	text-align: center;
+	background-color: #7B1FA2;
+}
 
 #secao1 {
-	background-color: transparent;
-	height: 700px;
+	height: 600px;
+	background-color: #3B2A43;
 }
-.botao {
-	width: 512px;
-	height: 56px;
-	border-radius: 8px;
-	font-size: 1rem;
-	color: #FFF;
-	text-decoration: none;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+.divi {
+	width: 1440px;
+	height: 600px;
 	margin: 0 auto;
-	font-weight: 400;
-	font-family: var(--fonte-inter);
-}
-.bo1 {
-	background-color: #7B1FA2;
-	margin-top: 46px;
-	margin-bottom: 16px;
-}
 
-
+}
+.divv {
+	height: 600px;
+	background-color: transparent;
+	margin: 0 auto;
+}
+a
 
 
 
