@@ -15,11 +15,6 @@ header {
 	height: 550px;
 }
 
-#segunda-parte {
-	height: 700px;
-	background-color: black;
-}
-
 #divisao {
 	background-color: #3B2A43;
 	height: 15px;
@@ -70,7 +65,78 @@ header {
 	padding-top: 312px;
 }
 
+#segunda-parte {
+	height: 700px;
+	background-color: #3B2A43;
+}
 
+.fundao {
+
+}
+
+.essa {
+	background-color: #636363;
+	width: 830px;
+	height: 450px;
+	border-radius: 60px;
+	margin: 0 auto;
+}
+.nomezinho {
+	background-color: #7B1FA2;
+	width: 830px;
+	height: 52px;
+	border-radius: 60px 60px 0px 0px;
+}
+.a {
+
+}
+.b {
+
+}
+.c {
+
+}
+.como {
+	font-family: 'Abril Fatface';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 94px;
+	color: #FFF;
+	text-align: center;
+}
+.comida1 {
+	height: 163px;
+	width: 180px;
+
+}
+.comida2 {
+	height: 180px;
+	width: 220px;
+}
+.comida3 {
+	height: 163px;
+	width: 180px;
+}
+.daqui {
+	display: flex;
+}
+
+
+.pgrande {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 21px;
+	color: #FFF;
+	text-align: center;
+}
+.ppequeno {
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	color: #FFF;
+}
 
 
 
