@@ -449,7 +449,7 @@ header {
 	width: 830px;
 	height: 52px;
 	background-color: #7B1FA2;
-	border-radius: 60px;
+	border-radius: 60px 60px 0px 0px;
 	margin-top: 60px;
 	margin: 0 auto;
 	text-align: center;
@@ -469,11 +469,13 @@ header {
 	font-weight: 400;	
 	text-align: center;
 	color: #FFFFFF;
+	margin-right: -80px;
 }
 
 #imagenvari{
 	height: 180px;
 	width: 308px;
+	margin-left: 30px;
 }
 
 #imagenqua{
