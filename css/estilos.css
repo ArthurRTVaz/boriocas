@@ -318,6 +318,9 @@ header {
 
 
 
+.textoconteudo {
+	display: flex;
+}
 
 .textoc {
 	width: 830px;
@@ -326,10 +329,7 @@ header {
 	border-radius: 60px;
 	color: white;
 	margin: 0 auto;
-	margin-top: 0px;
-	position: relative;
-	top: 60px;
-	display: flex;
+
 }
 
 #terceira-parte{
@@ -341,32 +341,34 @@ header {
 	width: 830px;
 	height: 52px;
 	background-color: #7B1FA2;
-	border-radius: 60px;
+	border-radius: 60px 60px 0px 0px;
+	margin-top: 60px;
+	margin: 0 auto;
+
 }
 
 .textoesq{
 	font-style: normal;
-font-weight: 400;
-line-height: 58px;
-text-align: center;
-color: #FFFFFF;
+	font-weight: 400;
+	text-align: center;
+	color: #FFFFFF;
 }
 
 .textodir{
 	font-style: normal;
-font-weight: 400;
-line-height: 58px;
-text-align: center;
-color: #FFFFFF;
+	font-weight: 400;	
+	text-align: center;
+	color: #FFFFFF;
 }
 
 #imagenvari{
-	height: 225px;
-	width: 385px;
+	height: 180px;
+	width: 308px;
 }
 
 #imagenqua{
-	height: 225px;
-	width: 385px;
+	height: 180px;
+	width: 308px;
+
 }
 
