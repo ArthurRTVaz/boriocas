@@ -375,7 +375,7 @@ header {
 }
 
 #terceira-parte{
-	height: 700px;
+	height: 530px;
 	background-color: #3B2A43;
 }
 
@@ -383,9 +383,11 @@ header {
 	width: 830px;
 	height: 52px;
 	background-color: #7B1FA2;
-	border-radius: 60px 60px 0px 0px;
+	border-radius: 60px;
 	margin-top: 60px;
 	margin: 0 auto;
+	text-align: center;
+	font-size: 30px;
 
 }
 
@@ -413,4 +415,33 @@ header {
 	width: 308px;
 
 }
+
+footer{
+	background-color: #7B1FA2;
+	height:85px;
+	margin-top: 70px;
+}
+
+.sobre{
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.pup{
+	color: #FFFFFF;
+	font-family: 'Abril Fatface';
+}
+
+.ali{
+	color: #FFFFFF;
+
+}
+.pedir{
+ width: 220px;
+}
+
+
+
 
