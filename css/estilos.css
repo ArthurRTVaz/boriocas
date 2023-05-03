@@ -42,7 +42,7 @@ header {
 	margin-left: 84px;
 }
 .botao {
-	width: 512px;
+	width: 312px;
 	height: 56px;
 	border-radius: 8px;
 	font-size: 2rem;
@@ -136,6 +136,9 @@ header {
 	font-weight: 400;
 	text-align: center;
 	color: #FFF;
+}
+html {
+	background-color: #3B2A43;
 }
 
 
