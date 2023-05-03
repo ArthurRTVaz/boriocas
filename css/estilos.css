@@ -562,5 +562,21 @@ footer{
 	margin-top: 70px;
 }
 
+.vari{
+	font-style: normal;
+	font-weight: 400px;
+	font-size: 21px;
+	color: #FFF;
+	text-align: center;
+}
+
+.quali{
+	font-style: normal;
+	font-weight: 400px;
+	font-size: 21px;
+	color: #FFF;
+	text-align: center;
+}
+
 
 
