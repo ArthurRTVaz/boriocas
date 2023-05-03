@@ -88,20 +88,19 @@ header {
 	border-radius: 60px 60px 0px 0px;
 }
 .a {
-
+	margin-left: 30px;
+	text-align: center;
 }
 .b {
-
+	margin-right: 36px;
+	text-align: center;
 }
 .c {
-
+	text-align: center;
 }
 .como {
-	font-family: 'Abril Fatface';
 	font-style: normal;
-	font-weight: 400;
-	font-size: 24px;
-	line-height: 94px;
+	font-size: 30px;
 	color: #FFF;
 	text-align: center;
 }
@@ -120,6 +119,7 @@ header {
 }
 .daqui {
 	display: flex;
+	margin-top: 15px;
 }
 
 
